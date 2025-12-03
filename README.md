@@ -1,6 +1,6 @@
 # 🛡️ Bugify — Arabic Vulnerability Coordination & Bug Bounty Platform
 
-<img src="https://i.imgur.com/hj4EHwB.png" width="50">
+<img src="https://i.imgur.com/hj4EHwB.png" width="100">
 
 ## 🔥 About Bugify
 Bugify is an Arabic-focused vulnerability coordination and bug bounty platform designed to support:
