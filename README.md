@@ -11,7 +11,7 @@ Bugify is an Arabic-focused vulnerability coordination and bug bounty platform d
 The platform aims to provide an organized, secure, and efficient way for reporting vulnerabilities and rewarding ethical contributions.
 
 ## 💡 Idea Behind the Project
-I’m Hamdan Mohammed Hassan Ismail Al Balushi, a 17-year-old Emirati student passionate about ethical hacking, programming, and cybersecurity.
+I’m Hamdan , a 17-year-old Emirati student passionate about ethical hacking, programming, and cybersecurity.
 
 I noticed a big gap in the Arab world for a platform dedicated to bug bounty and vulnerability coordination.  
 This inspired the creation of **Bugify** — a platform designed for our region, our language, and our community.
